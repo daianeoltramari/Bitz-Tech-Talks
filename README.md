@@ -67,4 +67,5 @@ repositório
 **5°** Agora basta clonar ele em sua máquina e começar a Codar
 
 <img height='200' width="450" src="./assets/MicrosoftTeams-image (4).png">
+
 ---
