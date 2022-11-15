@@ -55,8 +55,8 @@ A develop deve sempre conter o código mais atual, onde as branchs de features s
 <img height='200' width="450" src="./assets/MicrosoftTeams-image (1).png">
 
 **3°** Após realizar o evento de clique, você será encaminhado
-para uma tela de criação do FORK.
-Onde é possível você alterar o nome do projeto.
+para uma tela de criação do FORK. Onde é possível você alterar o nome do projeto.
+
 <img height='200' width="450" src="./assets/MicrosoftTeams-image (2).png">
 
 **4°** Depois de criar o FORK, o projeto estará disponível em seu
